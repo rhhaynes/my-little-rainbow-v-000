@@ -6,8 +6,8 @@ div {
   min-height: 25em; /* of the divs oblong*/
   border-radius: 50%; /* this makes the normally square div round */
   border-left-color: green; /* these remove the color from the left side */
-  border-right-color: transparent; /* the right side */
-  border-bottom-color: transparent; /* and the bottom of the circle */
+  border-right-color: blue; /* the right side */
+  border-bottom-color: red; /* and the bottom of the circle */
 }
 
 #red    {border-top-color: #ff0000;}
